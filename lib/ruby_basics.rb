@@ -10,8 +10,8 @@ def argue(element)
   element = "I'm right and you are wrong!"
 end
 
-def greeting
-return "nice"
+def greeting(greeting, name)
+greeting = name
 end
 
 def return_a_value
