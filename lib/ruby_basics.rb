@@ -7,6 +7,7 @@ def assign_variable(value)
 end
 
 def argue(element)
+  element = "I'm right and you are wrong!"
 end
 
 def greeting
