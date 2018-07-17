@@ -11,11 +11,11 @@ def argue(element)
 end
 
 def greeting
-
+return "nice"
 end
 
 def return_a_value
-
+return 5
 end
 
 def last_evaluated_value
