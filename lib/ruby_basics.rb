@@ -7,7 +7,6 @@ def assign_variable(value)
 end
 
 def argue(element)
-  element = string
 end
 
 def greeting
