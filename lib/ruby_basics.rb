@@ -19,7 +19,7 @@ return 5
 end
 
 def last_evaluated_value
-
+return.push
 end
 
 def pizza_party
