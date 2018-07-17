@@ -24,5 +24,3 @@ end
 
 def pizza_party(topping = "cheese")
 end
-
-pizza_party(pepperoni)
